@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Tile : MonoBehaviour {
-    //kappa
+    //something else entirely
     #region Variable Declarations
 
     private Board board;
